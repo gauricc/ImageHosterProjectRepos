@@ -16,6 +16,7 @@ public class CommentService {
 
     /**
      * Service Method to add Comments to Images
+     *
      * @param comment
      */
     public void addComment(Comment comment) {
