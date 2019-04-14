@@ -17,6 +17,7 @@ public class CommentRepository {
 
     /**
      * DAO Method to add comments to Database
+     *
      * @param comment
      */
     public void addComment(Comment comment) {
